@@ -1,3 +1,4 @@
 # DEMO
 THIS IS MY FIRST GIT REPOSITORY
-author - mr raushan
+<br>
+Author - Mr Raushan
